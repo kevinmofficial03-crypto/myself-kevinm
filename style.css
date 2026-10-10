@@ -366,7 +366,7 @@ body {
 
 .card-image,
 .education-image {
-    width: 60%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -374,7 +374,7 @@ body {
 
 .about-image {
     display: block;
-    width: 80%;
+    width: 100%;
     max-width: 350px;
     height: auto;
     object-fit: contain;
